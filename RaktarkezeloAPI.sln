@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaktarkezeloAPI", "RaktarkezeloAPI.csproj", "{9DC8C012-CA08-4338-A725-E3CB8BE80DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC8C012-CA08-4338-A725-E3CB8BE80DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC8C012-CA08-4338-A725-E3CB8BE80DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC8C012-CA08-4338-A725-E3CB8BE80DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC8C012-CA08-4338-A725-E3CB8BE80DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09D4B85-17D1-4AAD-8864-535123B46926}
+	EndGlobalSection
+EndGlobal
